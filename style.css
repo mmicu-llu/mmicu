@@ -2,3 +2,7 @@ body {
     front-size: 14px;
     font-family: Helvetica, sans serif;
 }
+
+h1 {
+   color: blue;
+}
